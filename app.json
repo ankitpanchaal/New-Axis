@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "axis",
+    "name": "HDFC Reward",
     "slug": "axis",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -8,7 +8,7 @@
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/splash.png",
-      "resizeMode": "contain",
+      "resizeMode": "cover",
       "backgroundColor": "#ffffff"
     },
     "updates": {
@@ -25,7 +25,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.ankit0panchal.axis"
+      "package": "com.rn.axis"
     },
     "web": {
       "favicon": "./assets/favicon.png"
